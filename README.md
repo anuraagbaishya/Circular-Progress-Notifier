@@ -51,4 +51,4 @@ This library was inspired by [Colin Madere's blog post](http://tech.taskrabbit.c
 Contributions are welcome. Please fork this project to make contributions.
 
 ##License
-This project is licensed under the term of the MIT License.
+This project is licensed under the terms of the MIT License.
