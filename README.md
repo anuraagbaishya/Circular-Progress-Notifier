@@ -47,6 +47,7 @@ This library was inspired by [Colin Madere's blog post](http://tech.taskrabbit.c
               primaryColor,
               targetColor);
     ```
+    
 ##Contributions
 Contributions are welcome. Please fork this project to make contributions.
 
